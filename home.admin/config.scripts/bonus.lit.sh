@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://github.com/lightninglabs/lightning-terminal/releases
-LITVERSION="0.7.0-alpha"
+LITVERSION="0.9.0-alpha"
 
 # command info
 if [ $# -eq 0 ] || [ "$1" = "-h" ] || [ "$1" = "-help" ]; then
